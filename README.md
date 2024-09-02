@@ -1,1 +1,5 @@
-## End to End Machine Learning project
+## Student Performance Indicator.
+This model understand and predict how well the student perform in terms of test score under various factor like gender , Parent level of education etc.
+
+Dataset Source - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
+The data consists of 8 column and 1000 rows.
